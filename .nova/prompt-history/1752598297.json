@@ -1,0 +1,12 @@
+{
+  "timestamp": 1752598297,
+  "failure": {
+    "test_path": "test_sample.py",
+    "test_name": "test_add",
+    "error_type": "Unknown",
+    "error_message": "assert 0 == 4",
+    "stack_trace": "",
+    "nodeid": "test_sample.py::test_add",
+    "full_name": "test_sample.py::test_add"
+  }
+}
