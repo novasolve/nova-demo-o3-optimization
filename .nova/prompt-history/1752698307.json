@@ -1,0 +1,12 @@
+{
+  "timestamp": 1752698307,
+  "failure": {
+    "test_path": "test_sample.py",
+    "test_name": "test_divide",
+    "error_type": "Unknown",
+    "error_message": "=================================== FAILURES ===================================",
+    "stack_trace": "",
+    "nodeid": "test_sample.py::test_divide",
+    "full_name": "test_sample.py::test_divide"
+  }
+}
