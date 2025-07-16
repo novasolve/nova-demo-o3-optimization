@@ -11,7 +11,7 @@ def multiply(a, b):
 def divide(a, b):
     """Divide two numbers."""
     if b == 0:
-        return None  # Bug: should raise ZeroDivisionError
+        raise ZeroDivisionError("division by zero")
     return a / b
 
 def concatenate(str1, str2):
