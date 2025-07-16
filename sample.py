@@ -2,7 +2,7 @@
 
 def add(a, b):
     """Add two numbers (with a bug)."""
-    return a - b  # Bug: should be a + b
+    return a + b  # Bug fixed: should be a + b
 
 def multiply(a, b):
     """Multiply two numbers (with a bug)."""
