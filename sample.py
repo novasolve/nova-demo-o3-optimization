@@ -2,11 +2,11 @@
 
 def add(a, b):
     """Add two numbers (with a bug)."""
-    return a - b  # Bug: should be a + b
+    return a + b  # Bug fixed
 
 def multiply(a, b):
     """Multiply two numbers (with a bug)."""
-    return a + b  # Bug: should be a * b
+    return a * b  # Bug fixed
 
 def divide(a, b):
     """Divide two numbers."""
